@@ -56,7 +56,7 @@ transition: color .3s linear, background .3s linear;
 	text-decoration: none;
 	font-size: 14px;
 	font-weight: 700; text-transform:uppercase;
-	color: #000;
+	color: black;
 	outline: 0;
 	
 }/* Active/hover state (Menu items) */

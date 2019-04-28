@@ -46,8 +46,8 @@ Boxed Skin
 .menuzord.blue .menuzord-menu > li.active > a, 
 .menuzord.blue .menuzord-menu > li:hover > a, 
 .menuzord.blue .menuzord-menu ul.dropdown li:hover > a{ 
-	background: #5D9CEC; 
-	color: #fff;
+	background: white; 
+	color: #8a3232;
 }
 /* green */
 .menuzord.green .menuzord-menu > li.active > a, 

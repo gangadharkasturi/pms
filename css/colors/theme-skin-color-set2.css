@@ -973,7 +973,7 @@ fieldset[disabled] .btn-theme-colored.focus {
 }
 /* -------- Text Theme Color ---------- */
 .text-theme-colored2 {
-  color: #0799e6  !important;
+  color: #8a3232  !important;
 }
 .text-hover-theme-colored2:hover {
   color: #0799e6  !important;
@@ -1014,7 +1014,7 @@ blockquote.gray.bg-theme-colored2 footer {
 }
 /* -------- bg-theme-color ---------- */
 .bg-theme-colored2 {
-  background-color: #2F538A !important;
+  background-color: #8a3232 !important;
 }
 .bg-hover-theme-colored2:hover {
   background: #2F538A !important;
