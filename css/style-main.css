@@ -10470,7 +10470,7 @@ float:left;
     height: 100%;
     top: 0;
     left: 0;
-    background-image: url(../../my.zadarma.com/callbackWidget/images/mini.png);
+    background-image: url(../images/mini.png);
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-animation: zcwphone2 1.5s linear infinite;
