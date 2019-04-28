@@ -9,6 +9,7 @@ $("#sendMessage").on("click", function() {
         dataType: "json"
     });
     alert('Thanks for the email, we\'ll be in touch promptly.');
+    $("#gkModal .close").click()
     return false;
 });
 
