@@ -10441,7 +10441,7 @@ float:left;
 
 #callme {
     position: fixed;
-    right: 160px;
+    right: 70px;
     bottom: 15px;
     width: 60px;
     height: 60px;
@@ -10456,7 +10456,7 @@ float:left;
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: #ff0000;
+    background-color: #00adff;
     width: 60px;
     height: 60px;
     -webkit-animation: zcwmini2 1.5s 0s ease-out infinite;

@@ -1,3 +1,17 @@
+var message = "";
+
+$("#sendMessage").on("click", function() {
+    message = $("#appointment_form").serialize();
+    $.ajax({
+        url: "ht//formspree.io/info.pmsglobalservices@gmail.com", 
+        method: "POST",
+        data: {message: message},
+        dataType: "json"
+    });
+    alert('Thanks for the email, we\'ll be in touch promptly.');
+    return false;
+});
+
 var THEMEMASCOT = {};
 
 (function($) {
