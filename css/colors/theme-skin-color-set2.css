@@ -40,7 +40,7 @@ COLOR CODE: #1196CC
 .owl-theme .owl-dots .owl-dot.active span,
 .blog-posts .post.style1 .entry-header .entry-date.entry-date-absolute,
 .title-dots span {
-  background: #3BAED4;
+  background: #8a3232;
 }
 .cd-timeline-simple .cd-timeline-block .cd-timeline-img {
   background: #3BAED4 !important;
@@ -86,7 +86,7 @@ COLOR CODE: #1196CC
 .pager.theme-colored a,
 .owl-carousel.owl-nav-top .owl-controls .owl-nav .owl-prev,
 .owl-carousel.owl-nav-top .owl-controls .owl-nav .owl-next {
-  border: 1px solid #3BAED4;
+  border: 1px solid #8a3232;
 }
 .owl-theme .owl-dots .owl-dot span {
   border-color: #3BAED4;
@@ -149,10 +149,13 @@ COLOR CODE: #1196CC
 }
 /* -------- Text Theme Color ---------- */
 .text-theme-colored {
-  color: #3BAED4 !important;
+  color: #f5e5b9 !important;
+}
+.text-theme-colored-discount {
+  color: #634d12 !important;
 }
 .text-hover-theme-colored:hover {
-  color: #3BAED4 !important;
+  color: #8a3232 !important;
 }
 ul.list.theme-colored li:before,
 ul.list.theme-colored.angle-double-right li:before,
@@ -190,7 +193,7 @@ blockquote.gray.bg-theme-colored footer {
 }
 /* -------- bg-theme-color ---------- */
 .bg-theme-colored {
-  background-color: #3BAED4 !important;
+  background-color: #8a3232 !important;
 }
 .bg-hover-theme-colored:hover {
   background: #3BAED4 !important;
@@ -491,8 +494,8 @@ fieldset[disabled] .btn-border.btn-theme-colored.focus {
 */
 .btn-dark.btn-theme-colored {
   color: #fff;
-  background-color: #3BAED4;
-  border-color: #3BAED4;
+  background-color: #8a3232;
+  border-color: #8a3232
 }
 .btn-dark.btn-theme-colored:focus,
 .btn-dark.btn-theme-colored.focus {
